@@ -6,4 +6,4 @@ __pycache__/
 tests/
 data/*
 results/*
-
+constants.py

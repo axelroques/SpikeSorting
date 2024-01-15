@@ -6,4 +6,5 @@ __pycache__/
 tests/
 data/*
 results/*
+figures/*
 constants.py

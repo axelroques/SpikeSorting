@@ -1,0 +1,9 @@
+
+*.ipynb_checkpoints
+spikesorting.egg-info/
+__pycache__/
+
+tests/
+data/*
+results/*
+

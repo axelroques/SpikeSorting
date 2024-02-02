@@ -7,4 +7,6 @@ tests/
 data/*
 results/*
 figures/*
+temp/*
+
 constants.py
